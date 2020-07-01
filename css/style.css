@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url(../img/16.jpg) no-repeat;/*背景图不重复*/
+    background-size: 100%;
+}
+.box{
+    height: 60px;
+}
+.header{
+    height: 100px;
+
+}
+.header-img{
+    width: 128px;
+    height: 81px;
+    margin: 0 auto;
+}
+.header img{
+    width: 128px;
+    height: 81px;
+}
+/*  */
+.login-form{
+    width: 400px;
+    height: 376px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 0 24px 84px 24px;
+}
+.form-tabs{
+    width: 352px;
+    height: 60px;
+    font-size: 16px;
+
+}
+.form-tabs .tabs-left{  
+    width: 80px;
+    height: 60px;
+    /* float: left; */
+    margin-right: 24px;
+    display: inline-block;
+    line-height: 60px;
+}
+.form-tabs .tabs-right{
+    width: 64px;
+    height: 60px;
+   /* float: left; */
+    margin-right: 24px;
+    display: inline-block;
+    line-height: 60px;
+}
+.form-account{
+    width: 352px;
+    height: 49px;
+    margin-top: 24px;
+}
+.form-account .form-account-left{
+    width: 92px;
+    height: 26px;
+    float: left;
+}
+.form-account .form-account-right{
+    width: 234px;
+    height: 48px;
+    float: left;
+}
+.form-account .form-account-right input{
+    width: 234px;
+    height: 48px;
+}
+.form-wrapper{
+    width: 352px;
+    height: 48px;
+
+}
+.form-wrapper input{
+    width: 352px;
+    height: 48px;
+
+}
+/*  */
+.login-options{
+    width: 352px;
+    height: 20px;
+    margin-top: 12px;
+}
+.login-options .login-options-left{
+    float: left;
+    width: 84px;
+    color: #175199;
+    font-size: 14px;
+    border: none;
+    padding: 0;
+    line-height: inherit;
+    background-color: transparent;
+}
+.login-options .login-options-right{
+    float: right;
+    width: 74px;
+    padding: 0;
+    line-height: inherit;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+}
+/* 登录按钮 */
+.enter{
+    width: 352px;
+    height: 36px;
+    font-size: 14px;
+    /* background-color:transparent;  */
+    border-color: #0084ff;
+    color: #fff;
+    margin-top: 30px;
+}
+.form-tip{
+    width: 400px;
+    height: 57px;
+    font-size: 13px;
+    color: grey;
+    padding: 12px 24px;
+}
+/*  */
+.social{
+    width: 400px;
+    height: 60px;
+    padding: 0 24px;
+}
+/* 开通机构 */
+.pky{
+    width: 400px;
+    height: 60px;
+    padding: 0 24px;
+}
+.pky .pky-left{
+    width: 50%;
+    float: left;
+}
+.pky .pky-right{
+    width: 50%;
+    float: left;
+}
+/* 结尾 */
+.footer{
+        height: 88px;
+        font-size: 12px;
+        text-align: center;
+}
